@@ -1,0 +1,26 @@
+body{
+    background:black;
+    font-family:arial;
+}
+div{
+    margin-bottom:16px;
+}
+button{
+    height:60px;
+    width:60px;
+    border-radius:50%;
+    border:none;
+    background:rgb(51,51,51);
+    color:white;
+    font-size:20px;
+    margin-right:6px;
+    cursor: pointer;
+}
+.oparators{
+    background:rgb(254,160,10);
+}
+.answerDisplay{
+    margin:10px;
+    color:white;
+    font-size:50px;
+}
